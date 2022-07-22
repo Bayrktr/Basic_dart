@@ -1,1 +1,1 @@
-# Basic_dart
+Temel şeyleri unuttuğumda dönüp bakıyom.
