@@ -1,1 +1,1 @@
-Temel şeyleri unuttuğumda dönüp bakıyom.
+basic things
